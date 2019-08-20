@@ -1,0 +1,13 @@
+body {
+  background-image: url(../images/fog-forest.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.clock-face {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+}
